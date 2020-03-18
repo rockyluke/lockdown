@@ -1,8 +1,12 @@
 # lockdown
 
 [![License][license-img]][license-href]
+[![GitHub][github-img]][github-href]
 
 ## Context
+
+We are a French familly living  in Amsterdam, Netherlands since almost 2014. My
+wife gave birth to our son in 2018.
 
 ## 2020-03-19
 
@@ -39,5 +43,7 @@ son is 1.5 year old today.
    ╚═(███)═╝
 ```
 
-[license-img]: https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg
+[license-img]: https://img.shields.io/github/license/rockyluke/lockdown?style=social
 [license-href]: LICENSE
+[github-img]: https://img.shields.io/github/stars/rockyluke/lockdown?style=social
+[github-href]: https://github.com/rockyluke/lockdown/stargazers
