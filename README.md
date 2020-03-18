@@ -18,8 +18,8 @@
 
 ## 2020-03-13
 
-Following the quick spread of COVID-19  in Netherlands, we decided with my wife
-to start the lockdown on the `2020-03-13`.
+Following the quick  spread of **COVID-19** in Netherlands, we  decided with my
+wife to start the lockdown on the `Friday, March 13th 2020`.
 
 ## Miscellaneous
 
