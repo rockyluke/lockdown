@@ -5,8 +5,8 @@
 
 ## Context
 
-We are a French familly living  in Amsterdam, Netherlands since almost 2014. My
-wife gave birth to our son in 2018.
+We are a  French familly living in Amsterdam, Netherlands  since March 2014. My
+wife gave birth to our son in September 2018.
 
 ## 2020-03-19
 
