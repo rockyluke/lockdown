@@ -22,8 +22,9 @@ wife gave birth to our son in 2018.
 
 ## 2020-03-13
 
-First day  without bringing our  son to  childcare. Everything looks  normal at
-home for him and I guess he thinks we are Saturday or Sunday.
+First day  without bringing our  son to  childcare. Everything feels  normal at
+home for  him and I guess  he thinks we  are Saturday or Sunday.  Everything is
+also good at work.
 
 ## 2020-03-12
 
@@ -43,7 +44,7 @@ son is 1.5 year old today.
    ╚═(███)═╝
 ```
 
-[license-img]: https://img.shields.io/github/license/rockyluke/lockdown?style=plastic
+[license-img]: https://img.shields.io/github/license/rockyluke/lockdown
 [license-href]: LICENSE
 [github-img]: https://img.shields.io/github/stars/rockyluke/lockdown?style=social
 [github-href]: https://github.com/rockyluke/lockdown/stargazers
