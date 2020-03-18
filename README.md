@@ -18,8 +18,14 @@
 
 ## 2020-03-13
 
+First day  without bringing our  son to  childcare. Everything looks  normal at
+home for him and I guess he thinks we are Saturday or Sunday.
+
+## 2020-03-12
+
 Following the quick  spread of **COVID-19** in Netherlands, we  decided with my
-wife to start the lockdown on the `Friday, March 13th 2020`.
+wife to start the  lockdown on the `Thursday, March 12th 2020`.  By the way our
+son is 1.5 year old today.
 
 ## Miscellaneous
 
