@@ -43,7 +43,7 @@ son is 1.5 year old today.
    ╚═(███)═╝
 ```
 
-[license-img]: https://img.shields.io/github/license/rockyluke/lockdown?style=social
+[license-img]: https://img.shields.io/github/license/rockyluke/lockdown?style=plastic
 [license-href]: LICENSE
 [github-img]: https://img.shields.io/github/stars/rockyluke/lockdown?style=social
 [github-href]: https://github.com/rockyluke/lockdown/stargazers
