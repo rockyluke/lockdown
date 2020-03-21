@@ -6,10 +6,12 @@
 ## Context
 
 We are a  French familly living in Amsterdam, Netherlands  since March 2014. My
-wife gave birth to our son in September 2018.
+wife gave birth to our son in September  2018. Last but least I am a smoker and
+I  decided to  reduce my  consumption to  5 cigarettes  a day  (usually 20)  to
+preserve myself a bit (no comments).
 
-Last but  least I  am a  smoker and  I decided  to reduce  my consumption  to 5
-cigarettes a day (usually 20) to preserve myself a bit (no comments).
+We decided with my wife to create a very simple and short diary of the lockdown
+on GitHub to share it easily with our friends and familly.
 
 ## 2020-03-12 - Day 00
 
@@ -66,7 +68,12 @@ to check our son healthstate.
 
 ## 2020-03-18 - Day 06
 
+I  (re)installed most  of  the [Blizzard](https://www.blizzard.com/)  including
+StarCraft (Remastered) and Warcraft 3 (Reforged)  and we create a Whatsapp chat
+with my friends to organise our games.
+
 ## 2020-03-19 - Day 07
+
 
 ## 2020-03-20 - Day 08
 
