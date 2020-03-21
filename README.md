@@ -68,7 +68,7 @@ to check our son healthstate.
 
 ## 2020-03-18 - Day 06
 
-I  (re)installed most  of  the [Blizzard](https://www.blizzard.com/)  including
+I (re)install most of the [Blizzard](https://www.blizzard.com/) games including
 StarCraft (Remastered) and Warcraft 3 (Reforged)  and we create a Whatsapp chat
 with my friends to organise our games.
 
