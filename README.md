@@ -36,7 +36,7 @@ minutes walk in our Neiborhood. At the end  of the day our son was happy and go
 to bed pretty easily. Our son is now coughing pretty hard.
 
 ## 2020-03-15 - Day 03
-    
+
 A regular Sunday looks like a Saturday  in terms of dispatch but we usually try
 to visit a place or museum. We decided again to go out two times for 30 minutes
 walk. Our son start to be really sick is still coughing pretty hard but without
@@ -107,10 +107,11 @@ as we  lived in a  95m2 appartement but  now we start to  feel a bit  tight. We
 did't have a minute for us except when he is sleeping, so I did my first nap in
 10 days. We argue a bit with my wife  as I think our house rules are too strict
 and  it made  me easily  angry. We  made a  video meeting  with our  friends in
-Amsterdam and Paris and it was a really nice moment, thanks @ftrecourt. My wife
-is really exhausted today  and started to cough a lot. I think  we will have to
-dedicate a complete  room to our son because  at the end of the  day our entire
-home looks like a kid room and it makes me pissed.
+Amsterdam   and   Paris   and   it   was   a   really   nice   moment,   thanks
+[keybee](https://github.com/ftrecourt). My  wife is really exhausted  today and
+started to cough a lot. I think we will have to dedicate a complete room to our
+son because at the end of the day our  entire home looks like a kid room and it
+makes me pissed.
 
 ## 2020-03-23 - Day 11
 
