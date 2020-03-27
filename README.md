@@ -105,17 +105,31 @@ days    and   walked    with    our    son   for    almost    two   hours    in
 a bit.  Guess what? It didn't  really work...  I consider our family privileged
 as we  lived in a  95m2 appartement but  now we start to  feel a bit  tight. We
 did't have a minute for us except when he is sleeping, so I did my first nap in
-10 days. We argue a bit with my wife  as I think our house rules are too strict
-and  it made  me easily  angry. We  made a  video meeting  with our  friends in
-Amsterdam   and   Paris   and   it   was   a   really   nice   moment,   thanks
-[keybee](https://github.com/ftrecourt). My  wife is really exhausted  today and
-started to cough a lot. I think we will have to dedicate a complete room to our
-son because at the end of the day our  entire home looks like a kid room and it
-makes me pissed.
+10 days. We made a video meeting with our friends in Amsterdam and Paris and it
+was  a really  nice moment,  thanks [keybee](https://github.com/ftrecourt).  My
+wife is really exhausted today and started to cough a lot. I think we will have
+to dedicate a complete room to our son because at the end of the day our entire
+home looks like a kid room and it makes me pissed.
 
 ## 2020-03-23 - Day 11
 
+## 2020-03-24 - Day 12
 
+## 2020-03-25 - Day 13
+
+## 2020-03-26 - Day 14
+
+Two weeks.
+
+## 2020-03-27 - Day 15
+
+The weather in  Amsterdam is not helping  as it really sunny  and wincdless. My
+new  desk chair  is really  helping to  feel at  work.  I  am starting  to have
+headaches time to time. I guess it's deeply related to the lack of exercise. To
+be honest I  ordered food from one  of my favorite restaurant  for diner, first
+time without cooking. I ate everything in less than 15 minutes.
+
+## 2020-03-28 - Day 16
 
 ## Miscellaneous
 
